@@ -1,2 +1,1 @@
-# Webfolio.github.io
-Webfolio project
+# Webfolio
